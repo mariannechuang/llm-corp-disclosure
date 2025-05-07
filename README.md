@@ -58,6 +58,7 @@ To run the analysis, follow these steps:
 | `pairwise_between_industries.ipynb` | Compares company disclosures across industries to assess their relative climate responsibility. |
 | `greenwashing_postprocessing.ipynb` | Applies LLM-based modifications to "greenwash" corporate disclosures. |
 | `pairwise_postprocessing.ipynb` | Analyzes pairwise comparison results after greenwashing modifications. |
+| `pairwise_postprocessing.ipynb` | Analyzes pairwise comparison results after greenwashing modifications. |
 | `rating_over_years.ipynb` | Evaluates how company ratings change over multiple years. |
 | `industry_counts.ipynb` | Aggregates company scores and counts by industry category. |
 | `malicious_greenwashing.ipynb` | Tests extreme greenwashing scenarios to measure impact on disclosure perception. |
