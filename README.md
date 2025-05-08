@@ -53,6 +53,7 @@ To run the analysis, follow these steps:
 
 | File | Description |
 |------|------------|
+| `company_information.ipynb` | Counts companies that respond to one/both/neither questions, counts A List companies with invalid responses, Filters out (and counts) European companies with valid responses, and saves it into new files. |
 | `preprocessing.ipynb` | Cleans raw CDP data, removes invalid responses, and filters non-European companies. |
 | `rating_companies.ipynb` | Assigns scores to company disclosures using an LLM-based numerical rating system. |
 | `pairwise_between_industries.ipynb` | Compares company disclosures across industries to assess their relative climate responsibility. |
