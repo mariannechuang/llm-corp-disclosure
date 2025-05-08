@@ -54,15 +54,15 @@ To run the analysis, follow these steps:
 | File | Description |
 |------|------------|
 | `company_information.ipynb` | Counts companies that respond to one/both/neither questions, counts A List companies with invalid responses, Filters out (and counts) European companies with valid responses, and saves it into new files. |
-| `preprocessing.ipynb` | Cleans raw CDP data, removes invalid responses, and filters non-European companies. |
-| `rating_companies.ipynb` | Assigns scores to company disclosures using an LLM-based numerical rating system. |
-| `pairwise_between_industries.ipynb` | Compares company disclosures across industries to assess their relative climate responsibility. |
+| `preprocessing.ipynb` | This file filters companies with N/A or empty values, filters out European countries, and also provides information on number of companies in each sector/industry |
+| `rating_companies.ipynb` | idk |
+| `pairwise_new_prompting.ipynb` | Compares company disclosures using ...  |
 | `greenwashing_postprocessing.ipynb` | Applies LLM-based modifications to "greenwash" corporate disclosures. |
 | `pairwise_postprocessing.ipynb` | Analyzes pairwise comparison results after greenwashing modifications. |
 | `pairwise_postprocessing.ipynb` | Analyzes pairwise comparison results after greenwashing modifications. |
-| `rating_over_years.ipynb` | Evaluates how company ratings change over multiple years. |
-| `industry_counts.ipynb` | Aggregates company scores and counts by industry category. |
-| `malicious_greenwashing.ipynb` | Tests extreme greenwashing scenarios to measure impact on disclosure perception. |
+| `rating_over_years.ipynb` | idk. |
+| `industry_counts.ipynb` |  |
+| `malicious_greenwashing.ipynb` |  |
 
 ---
 
