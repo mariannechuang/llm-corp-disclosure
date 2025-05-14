@@ -4,8 +4,6 @@
 - [Project Overview](#project-overview)
 - [Data](#data)
 - [Key Files](#key-files)
-- [Contributing](#contributing)
-- [License](#license)
 
 ---
 
