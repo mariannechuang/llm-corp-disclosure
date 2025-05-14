@@ -41,7 +41,8 @@ We focus on responses to two key questions from the **"Targets and Performance"*
 | `sample_a_list.csv` | Sample List of A List Companies |
 | `sample_non_a_list.csv` | Sample List of Non A List Companies |
 | `pairwise_comparisons.ipynb` | Compares company responses using pairwise method  |
-| `pairwise_postprocessing.ipynb` | Analyze pairwise comparison results (TVD, EMD, KS) |
+| `ratings.ipynb` | Compares company responses using rating method  |
+| `postprocessing.ipynb` | Analyze pairwise comparison/rating results (TVD, EMD, KS) |
 | `greenwashing_prompts.ipynb` | Greenwashes company responses 3 different ways |
 | `greenwashing_postprocessing.ipynb` | Analyzes results before vs after greenwashing modifications |
 
